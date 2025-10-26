@@ -11,9 +11,9 @@ The app saves your tasks automatically using a JSON file, so you can pick up rig
 - Lightweight, no external dependencies
 
 ## Technologies Used
-- **Python 3.x**
-- **Tkinter** (for GUI)
-- **JSON module** (for data storage)
+- Python 3.13
+- Tkinter (for GUI)
+- JSON module (for data storage)
 
 ## How to Run
 1. Make sure you have **Python 3** installed on your system.
